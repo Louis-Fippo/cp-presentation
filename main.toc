@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Automata Network}{5}{0}{2}
+\beamer@sectionintoc {3}{Static analysis of bifurcations}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{What is a bifurcation?}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{How to identify bifurcations?}{17}{0}{3}
+\beamer@sectionintoc {4}{Implementation \& Applications}{24}{0}{4}
+\beamer@subsectionintoc {4}{1}{Biological applications}{24}{0}{4}
+\beamer@sectionintoc {5}{Conclusions \& Perspectives}{27}{0}{5}

@@ -1,0 +1,38 @@
+% Performances et conclusion
+
+\begin{frame}[c]
+  \frametitle{Conclusions \& Perspectives}
+\begin{block}{Conclusions}
+\tval{Hybrid approach for modeling an RSTC network}
+  \begin{itemize}
+   \item Formalizing biological knowledge: Translation of motifs
+   \item Automatique generation of Process Hitting model
+   \item Inference and integration of temporal parameters
+   \item Validation with discrete times series data
+  \end{itemize}
+
+ \end{block}
+
+ \begin{block}{Perspectives}
+  \begin{itemize}
+   \item Static analysis of quantitative properties of reachability in Process Hitting
+   \item Logical verification and key processes detection
+   \item Experimental validation of in silico hypotesis
+  \end{itemize}
+
+ \end{block}
+
+\end{frame}
+
+\begin{frame}[c]
+ 
+ \begin{center}
+  Thank you for your attention!!!
+  \end{center}
+ 
+
+\end{frame}
+
+
+
+
